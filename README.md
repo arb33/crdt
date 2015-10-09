@@ -1,2 +1,4 @@
-# crdt
-Demo CRDTs
+# Demo CRDTs
+
+Example Conflict-free Replicated Data Types.
+
